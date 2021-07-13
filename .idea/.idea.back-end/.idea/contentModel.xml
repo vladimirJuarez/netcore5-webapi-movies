@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vjuarez\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vjuarez\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_back-end.163601854.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vjuarez\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\vjuarez\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\vjuarez\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="D:\projects\net\CSharp\net-core-angular-course\AngularPeliculas\back-end" t="IncludeRecursive">
+      <e p="ApplicationDbContext.cs" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="back-end.csproj" t="IncludeRecursive" />
+      <e p="back-end.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="ActorsController.cs" t="Include" />
+        <e p="GenresController.cs" t="Include" />
+        <e p="WeatherForecastController.cs" t="Include" />
+      </e>
+      <e p="DTOs" t="Include">
+        <e p="ActorCreationDTO.cs" t="Include" />
+        <e p="ActorDTO.cs" t="Include" />
+        <e p="GenreCreationDTO.cs" t="Include" />
+        <e p="GenreDTO.cs" t="Include" />
+        <e p="PaginationDTO.cs" t="Include" />
+      </e>
+      <e p="Entidades" t="Include">
+        <e p="Actor.cs" t="Include" />
+        <e p="Genre.cs" t="Include" />
+      </e>
+      <e p="Filters" t="Include">
+        <e p="MyExceptionFilter.cs" t="Include" />
+        <e p="MyFilterAction.cs" t="Include" />
+      </e>
+      <e p="identifier.sqlite" t="Include" />
+      <e p="Migrations" t="Include">
+        <e p="20210624040750_Initial.cs" t="Include" />
+        <e p="20210624040750_Initial.Designer.cs" t="Include" />
+        <e p="20210702050300_ActorsTable.cs" t="Include" />
+        <e p="20210702050300_ActorsTable.Designer.cs" t="Include" />
+        <e p="MoviesDbContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="MoviesDbContext.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="back-end.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IRepository.cs" t="Include" />
+        <e p="RepositoryCache.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Utilities" t="Include">
+        <e p="AutoMapperProfile.cs" t="Include" />
+        <e p="HttpContextExtensions.cs" t="Include" />
+        <e p="ILocalFileStorage.cs" t="Include" />
+        <e p="IQuerybleExtensions.cs" t="Include" />
+        <e p="LocalFileStorage.cs" t="Include" />
+      </e>
+      <e p="Validations" t="Include">
+        <e p="FirstCapitalLetter.cs" t="Include" />
+      </e>
+      <e p="ViewModels" t="Include">
+        <e p="GenreCreationViewModel.cs" t="Include" />
+      </e>
+      <e p="WeatherForecast.cs" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="actors" t="Include">
+          <e p="f21ceb03-a20d-4bb6-8263-1ae2b9771634.jpg" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
